@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  TreAppIOS
+//  Prova2
 //
-//  Created by Mariarosa Savoldi on 03/05/18.
+//  Created by Mariarosa Savoldi on 01/03/18.
 //  Copyright © 2018 Mariarosa Savoldi. All rights reserved.
 //
 
